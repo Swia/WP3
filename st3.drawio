@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T07:09:03.311Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="dBVUAyy0GgSXx9x8-jyS" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T16:15:19.830Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="P5P4BKe03loYpFfDR65Z" version="13.10.2" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1730" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1897" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="MaADvUMPTTQarUst9Aev-24" value="JSON" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" parent="MaADvUMPTTQarUst9Aev-27" vertex="1">
           <mxGeometry x="485" y="100" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MaADvUMPTTQarUst9Aev-26" value="Создать заявку на исправление заявки&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="MaADvUMPTTQarUst9Aev-27" vertex="1">
+        <mxCell id="MaADvUMPTTQarUst9Aev-26" value="Создать заявку на исправление ошибки" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="MaADvUMPTTQarUst9Aev-27" vertex="1">
           <mxGeometry x="570" y="85" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MaADvUMPTTQarUst9Aev-38" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="MaADvUMPTTQarUst9Aev-27" source="MaADvUMPTTQarUst9Aev-24" target="MaADvUMPTTQarUst9Aev-26" edge="1">
